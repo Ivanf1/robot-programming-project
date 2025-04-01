@@ -5,7 +5,10 @@ This project was developed for the Robot Programming Course.
 ## Robot
 
 ![Robot](https://github.com/Ivanf1/robot-programming-project/raw/main/assets/robot.png)
-![RobotVideo](https://github.com/Ivanf1/robot-programming-project/blob/main/assets/robot.mp4)
+
+### Video
+
+[![Robot Video](https://img.youtube.com/vi/MUSglA3YPQ4/0.jpg)](https://www.youtube.com/watch?v=MUSglA3YPQ4)
 
 ## Project description
 
