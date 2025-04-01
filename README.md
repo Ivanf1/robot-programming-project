@@ -2,6 +2,10 @@
 
 This project was developed for the Robot Programming Course.
 
+## Robot
+
+![Robot](https://github.com/Ivanf1/robot-programming-project/raw/main/assets/robot.png)
+
 ## Project description
 
 ### Idea
