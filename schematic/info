@@ -1,0 +1,182 @@
+{
+  "uuid": "3fbc30d5f298c61dff9774799fa54b7b",
+  "path": "Offline/Robot_Programming",
+  "name": "Robot_Programming",
+  "content": "",
+  "created_at": "2024-12-22 09:02:25",
+  "updated_at": "2025-01-18 17:59:44",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8e1ba6951e8cea6d7dd1b0e2bee9a737",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c4fa027b101a41659363b039befe5ebb": 1,
+        "0b678de3efb147f288b632aa133b0839": 1,
+        "7e8f52c8d51f44218101633e3d475cdd": 7,
+        "f5a4e5f23892430486600f70dbcaad1f": 1,
+        "5b2d8e492e724839b806e1d02596cc24": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "563750030e244cbd8c5665f818eaec8a": 1,
+        "163dc30d29f34689a5cff63d01da5c15": 1,
+        "e545f26e87c74952857381bd0bff848e": 1,
+        "3721972c581d4f99b226effb1db7a790": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "TYPE C",
+          1,
+          "HDR-F-2.54_1X2",
+          "5V",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "BATTERY",
+          1,
+          "HDR-F-2.54_1X2",
+          "BATTERY",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "10 uF",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "CHARGE",
+          1,
+          "POWER CONNECTOR.",
+          "CHARGE",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Dynamixel Shield",
+          1,
+          "ARDUINO_UNO_SHIELD_EFSHIELD ARDUINO UNO PH",
+          "DYNAMIXEL_SHIELD",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED",
+          {
+            "Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84774"
+          }
+        ],
+        [
+          "LEVEL SHIFTER",
+          1,
+          "LEVEL SHIFTER",
+          "LEVEL_SHIFTER",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM2596HVS DC-DC-Converter_TP",
+          1,
+          "LM2596HVS_TP",
+          "LM2956",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "TaoBao",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RASPBERRY PI 4",
+          1,
+          "RASPBERRY PI 4",
+          "RASPBERRY4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SERVO",
+          7,
+          "SERVO",
+          "SERVO,SERVO,SERVO,SERVO,SERVO,SERVO,SERVO",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SWITCH",
+          1,
+          "6PIN-SWITCH",
+          "SWITCH",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1737219584,
+      "createTime": 1734854545,
+      "histories": [],
+      "created_at": "2024-12-22 09:02:25",
+      "updated_at": "2025-01-18 17:59:44"
+    }
+  ],
+  "sort": [],
+  "title": "Robot_Programming",
+  "foldername": "Robot_Programming",
+  "schfilename": "Robot_Programming.json",
+  "schfilemtime": 1737219584491
+}
