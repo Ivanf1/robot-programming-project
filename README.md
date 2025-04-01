@@ -26,21 +26,29 @@ We also thought it would be interesting to use mecanum wheels to allow different
 
 ### Components
 
-- Raspberry Pi 4 with Ubuntu 20.04.5 and ROS Noetic.
-- 7 Servo AX-12+.
-- Arduino Uno with Dynamixel Shield
-- Logic Level Converter to connect the Raspberry Pi 4 and the Arduino Uno
-- Pi Zero 2 with Pi Camera
+The robot is built using the following components:
+
+- **Raspberry Pi 4**: Runs Ubuntu 20.04.5 and ROS Noetic, serving as the main processing unit.
+- **7 Servo AX-12+**: Used for precise movement and control of the robot's wheels and arm.
+- **Arduino Uno with Dynamixel Shield**: Handles communication with the servos motors.
+- **Logic Level Converter**: Ensures proper voltage levels between the Raspberry Pi and Arduino.
+- **Pi Zero 2 with Pi Camera**: Provides vision capabilities.
 
 ### Schematic
+
+The schematic below illustrates the wiring and connections between the robot's components, including the Raspberry Pi, Arduino, servos, and sensors.
 
 ![Schematic](https://github.com/Ivanf1/robot-programming-project/raw/main/assets/schematic.jpg)
 
 ### Mecanum wheels motion
 
+Mecanum wheels enable the robot to move in any direction without needing to rotate. This unique capability is achieved by the angled rollers on each wheel, which allow for omnidirectional movement. The diagram below demonstrates the motion patterns possible with mecanum wheels and the equation used to control the motion.
+
 ![Mecanum](https://github.com/Ivanf1/robot-programming-project/raw/main/assets/mecanum.svg)
 
 ### Ros nodes graph
+
+The ROS nodes graph provides a visual representation of the communication between different components of the robot.
 
 ![RosNodeGraph](https://github.com/Ivanf1/robot-programming-project/raw/main/assets/rosgraph.svg)
 
